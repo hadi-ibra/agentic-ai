@@ -1,0 +1,11 @@
+phidata[aws]
+python-dotenv
+packaging
+fastapi
+uvicorn
+groq
+openai
+chromadb
+streamlit
+google-generativeai
+duckduckgo-search
