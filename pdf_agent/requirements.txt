@@ -7,3 +7,4 @@ groq
 openai
 chromadb
 pypdf
+python-docx
